@@ -23,7 +23,7 @@ require_once(__DIR__ . '/functions/optimizations.php');
 require_once(__DIR__ . '/functions/user_roles.php');
 
 // Cloudflare Turnstile Integration
-require_once(__DIR__ . '/functions/turnstile.php');
+//require_once(__DIR__ . '/functions/turnstile.php');
 
 // Divi Theme Specific Functions
 require_once(__DIR__ . '/functions/divi_tweaks.php');
